@@ -12,3 +12,5 @@ class Oddeven
          System.out.println("even number.");
       else
          System.out.println("odd number.");
+   }
+}
